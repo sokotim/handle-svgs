@@ -1,0 +1,9 @@
+---
+title: "Handle-svgs Example"
+filters:
+  - handle-svgs
+---
+
+This filter adds `.pdf` or `.emf` to the end of SVG file paths (depending on the output format) and tries to generate the according file via Inkscape if it doesn't exist.
+
+![Test SVG](drawing.svg)
